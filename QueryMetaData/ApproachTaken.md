@@ -1,4 +1,4 @@
-Shell Scripting has been used to implement the solution for the problem statement.
+Shell Scripting has been used to implement the solution for the defined problem statement.
 
 Here instead of AWS, we are fetching metadata of Azure instance API.(Reason being I'm most familiar with Azure Cloud Services)
 
