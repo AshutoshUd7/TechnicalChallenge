@@ -8,4 +8,4 @@ The 3-Tier Environment which is designed will have 3 major Azure resources used:
 3. Create SQL Databases.
 4. Set up failover mechanism.
 
-Please refer the configuration document for the detailed steps to be taken
+Please refer the configuration document named "Configuration_Document_3tierEnv" for the detailed steps to be taken.
