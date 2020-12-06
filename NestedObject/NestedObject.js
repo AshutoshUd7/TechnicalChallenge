@@ -10,7 +10,7 @@ function makeItem(){
 				name: 'Hoodies',
 				size:{
 					XL: 42,
-					XXL: 44,
+					XXL: 44
 				}
 			}
 		},
