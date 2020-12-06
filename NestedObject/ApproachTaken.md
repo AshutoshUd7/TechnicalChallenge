@@ -1,4 +1,4 @@
-As per the requirement defined in the problem statement, we have defined a function makeItem() which return an object as Data and Status. 
+As per the requirement defined in the problem statement, we have created a javascript NestedObject.js and defined a function makeItem() which return an object as Data and Status. 
 
 Inside Data, we have Item and inside Item we have Name and Size as properties. Where the property Size has it's own properties paired as key-value in form of XL,XLL and their corresponding values.
 
