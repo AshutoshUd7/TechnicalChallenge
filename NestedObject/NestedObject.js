@@ -1,11 +1,3 @@
-
-#<html>
-#<head>
-#<metadata arguments>
-#<title>Give Title</title>
-#</head>
-#<body>
-#<script>
 #function to pass in the object and a key and get back the value.
 
 function makeItem(){
@@ -26,7 +18,3 @@ function makeItem(){
 const { data: {item:{ name, size: { XL, XXL} }}, status } = makeItem();
 
 console.log(name, XL, XXL);
-
-#</script>
-#</body>
-#</html>
