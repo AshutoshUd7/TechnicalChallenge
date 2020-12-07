@@ -9,4 +9,5 @@ We have defined separate parameters for the different resources as well.
 We've created load balancers resource and configured them with the VMs and NSGs and also have defined scale ups.
 Individual tiers are going to have invidual subnets so that traffic can be diverted accordingly.
 We have a loadbalancer which is internet facing to secure those so as the web servers won't communicate directly with the DB servers.
-Both deployment and parameter templates have been separately attached as ThreetierApp.json and ThreetierApp.parameters.json
+Both deployment and parameter templates have been separately attached as ThreetierApp.json and ThreetierApp.parameters.json.
+Through parameters template we are basically retriveing the azure vault attributes.
