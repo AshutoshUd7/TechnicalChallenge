@@ -8,7 +8,7 @@ object = {“x”:{“y”:{“z”:”a”}}}
 key = x/y/z
 value = a
 
-# For Solution,
+# Code Overview
 
 As per the requirement defined in the problem statement, we have created a javascript NestedObject.js and defined a function makeItem() which return an object as Data and Status.
 
