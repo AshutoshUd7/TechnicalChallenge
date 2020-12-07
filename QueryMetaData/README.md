@@ -8,7 +8,7 @@ Hints
 ·         Azure Documentation (https://docs.microsoft.com/en-us/azure/?product=featured)
 ·         Google Documentation (https://cloud.google.com/docs)
 
-# For Solution,
+# Code Overview
 
 Shell Scripting has been used to implement the solution for the defined problem statement.
 
